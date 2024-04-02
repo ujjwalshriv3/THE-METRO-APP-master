@@ -10,6 +10,7 @@ import java.io.*;
 		}
 
 		static HashMap<String, Vertex> vtces;
+		int numVertices;
 
 		public Graph_M() 
 		{
